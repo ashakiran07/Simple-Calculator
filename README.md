@@ -29,4 +29,3 @@ Let's make this calculator even better together!
 
 
 **Happy calculating!**
-# Simple-Calculator
