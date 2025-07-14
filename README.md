@@ -1,5 +1,4 @@
 # Simple Calculator
-
 Welcome to the Simple Calculator project! This web-based calculator is implemented with HTML, CSS, and JavaScript, offering basic arithmetic functionality in a user-friendly interface.
 
 ## Features
