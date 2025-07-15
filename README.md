@@ -2,12 +2,10 @@
 Welcome to the Simple Calculator project! This web-based calculator is implemented with HTML, CSS, and JavaScript, offering basic arithmetic functionality in a user-friendly interface.
 
 ## Features
-
 - **Basic Operations:** Addition, subtraction, multiplication, and division.
 - **Responsive Design:** The calculator adapts to various screen sizes, providing a seamless experience on different devices.
 
 ## Usage
-
 1. Open the `index.html` file in your web browser.
 2. Use the on-screen buttons to perform calculations:
    - Numeric buttons (0-9): Input numbers for calculations.
